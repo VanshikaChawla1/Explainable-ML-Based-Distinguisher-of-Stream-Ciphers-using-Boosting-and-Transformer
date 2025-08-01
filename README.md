@@ -2,6 +2,7 @@
 This project presents a machine learning framework to distinguish cryptographic keystreams from truly random bitstreams using two different models:
 - XGBoost Classifier
 - Transformer-based Neural Network with Self-Attention
+
 Further, Explainable AI (XAI) techniques such as SHAP and LIME are applied to interpret the predictions made by the XGBoost model.
 
 # Datasets:
