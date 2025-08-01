@@ -9,8 +9,8 @@ Further, Explainable AI (XAI) techniques such as SHAP and LIME are applied to in
 - Keystreams: Generated using stream cipher algorithms (1.csv, 2.csv, 3.csv, 4.csv)
 - Random Streams: Truly random bitstreams (random_streams.csv)
 - Binary classification labels:
-  --1 for keystream
-  --0 for random stream
+-- 1 for keystream
+-- 0 for random stream
 
 # Models Used:
 # 1. XGBoost Classifier
