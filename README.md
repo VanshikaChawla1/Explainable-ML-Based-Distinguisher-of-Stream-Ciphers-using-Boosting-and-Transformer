@@ -1,7 +1,7 @@
 # Explainable-ML-Based-Distinguisher-of-Stream-Ciphers-using-Boosting-and-Transformer
 This project presents a machine learning framework to distinguish cryptographic keystreams from truly random bitstreams using two different models:
-1.XGBoost Classifier
-2.Transformer-based Neural Network with Self-Attention
+- XGBoost Classifier
+- Transformer-based Neural Network with Self-Attention
 Further, Explainable AI (XAI) techniques such as SHAP and LIME are applied to interpret the predictions made by the XGBoost model.
 
 # Datasets:
